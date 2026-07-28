@@ -11,9 +11,6 @@ A custom YOLO-based Personal Protective Equipment (PPE) detection system develop
 - Confidence score display
 - Automatic output video generation
 
-## 📊 Sample Detection
-
-![Detection](images/detection_result.png)
 
 ## 🛠 Technologies Used
 
@@ -22,7 +19,3 @@ A custom YOLO-based Personal Protective Equipment (PPE) detection system develop
 - OpenCV
 - Google Colab
 
-## ▶️ How to Run
-
-```bash
-pip install -r requirements.txt
